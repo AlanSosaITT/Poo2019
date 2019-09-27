@@ -1,0 +1,7 @@
+C:\Users\alan-\source\repos\Practica_25_09_19_2\Practica_25_09_19_2\bin\Debug\Practica_25_09_19_2.exe.config
+C:\Users\alan-\source\repos\Practica_25_09_19_2\Practica_25_09_19_2\bin\Debug\Practica_25_09_19_2.exe
+C:\Users\alan-\source\repos\Practica_25_09_19_2\Practica_25_09_19_2\bin\Debug\Practica_25_09_19_2.pdb
+C:\Users\alan-\source\repos\Practica_25_09_19_2\Practica_25_09_19_2\obj\Debug\Practica_25_09_19_2.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Practica_25_09_19_2\Practica_25_09_19_2\obj\Debug\Practica_25_09_19_2.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Practica_25_09_19_2\Practica_25_09_19_2\obj\Debug\Practica_25_09_19_2.exe
+C:\Users\alan-\source\repos\Practica_25_09_19_2\Practica_25_09_19_2\obj\Debug\Practica_25_09_19_2.pdb

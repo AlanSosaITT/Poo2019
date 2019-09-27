@@ -1,0 +1,7 @@
+C:\Users\alan-\source\repos\Practica_24_09_2019_Sobrecarga1\Practica_24_09_2019_Sobrecarga1\bin\Debug\Practica_24_09_2019_Sobrecarga1.exe.config
+C:\Users\alan-\source\repos\Practica_24_09_2019_Sobrecarga1\Practica_24_09_2019_Sobrecarga1\bin\Debug\Practica_24_09_2019_Sobrecarga1.exe
+C:\Users\alan-\source\repos\Practica_24_09_2019_Sobrecarga1\Practica_24_09_2019_Sobrecarga1\bin\Debug\Practica_24_09_2019_Sobrecarga1.pdb
+C:\Users\alan-\source\repos\Practica_24_09_2019_Sobrecarga1\Practica_24_09_2019_Sobrecarga1\obj\Debug\Practica_24_09_2019_Sobrecarga1.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Practica_24_09_2019_Sobrecarga1\Practica_24_09_2019_Sobrecarga1\obj\Debug\Practica_24_09_2019_Sobrecarga1.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Practica_24_09_2019_Sobrecarga1\Practica_24_09_2019_Sobrecarga1\obj\Debug\Practica_24_09_2019_Sobrecarga1.exe
+C:\Users\alan-\source\repos\Practica_24_09_2019_Sobrecarga1\Practica_24_09_2019_Sobrecarga1\obj\Debug\Practica_24_09_2019_Sobrecarga1.pdb

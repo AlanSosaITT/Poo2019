@@ -1,0 +1,7 @@
+C:\Users\alan-\source\repos\Sumar_Sobrecarga\Sumar_Sobrecarga\bin\Debug\Sumar_Sobrecarga.exe.config
+C:\Users\alan-\source\repos\Sumar_Sobrecarga\Sumar_Sobrecarga\bin\Debug\Sumar_Sobrecarga.exe
+C:\Users\alan-\source\repos\Sumar_Sobrecarga\Sumar_Sobrecarga\bin\Debug\Sumar_Sobrecarga.pdb
+C:\Users\alan-\source\repos\Sumar_Sobrecarga\Sumar_Sobrecarga\obj\Debug\Sumar_Sobrecarga.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Sumar_Sobrecarga\Sumar_Sobrecarga\obj\Debug\Sumar_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Sumar_Sobrecarga\Sumar_Sobrecarga\obj\Debug\Sumar_Sobrecarga.exe
+C:\Users\alan-\source\repos\Sumar_Sobrecarga\Sumar_Sobrecarga\obj\Debug\Sumar_Sobrecarga.pdb

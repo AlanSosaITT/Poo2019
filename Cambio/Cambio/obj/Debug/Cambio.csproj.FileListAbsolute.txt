@@ -1,0 +1,7 @@
+C:\Users\alan-\source\repos\Cambio\Cambio\bin\Debug\Cambio.exe.config
+C:\Users\alan-\source\repos\Cambio\Cambio\bin\Debug\Cambio.exe
+C:\Users\alan-\source\repos\Cambio\Cambio\bin\Debug\Cambio.pdb
+C:\Users\alan-\source\repos\Cambio\Cambio\obj\Debug\Cambio.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Cambio\Cambio\obj\Debug\Cambio.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Cambio\Cambio\obj\Debug\Cambio.exe
+C:\Users\alan-\source\repos\Cambio\Cambio\obj\Debug\Cambio.pdb
