@@ -1,0 +1,7 @@
+C:\Users\alan-\source\repos\Practica_08_10_2019_Conversor\Practica_08_10_2019_Conversor\bin\Debug\Practica_08_10_2019_Conversor.exe.config
+C:\Users\alan-\source\repos\Practica_08_10_2019_Conversor\Practica_08_10_2019_Conversor\bin\Debug\Practica_08_10_2019_Conversor.exe
+C:\Users\alan-\source\repos\Practica_08_10_2019_Conversor\Practica_08_10_2019_Conversor\bin\Debug\Practica_08_10_2019_Conversor.pdb
+C:\Users\alan-\source\repos\Practica_08_10_2019_Conversor\Practica_08_10_2019_Conversor\obj\Debug\Practica_08_10_2019_Conversor.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Practica_08_10_2019_Conversor\Practica_08_10_2019_Conversor\obj\Debug\Practica_08_10_2019_Conversor.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Practica_08_10_2019_Conversor\Practica_08_10_2019_Conversor\obj\Debug\Practica_08_10_2019_Conversor.exe
+C:\Users\alan-\source\repos\Practica_08_10_2019_Conversor\Practica_08_10_2019_Conversor\obj\Debug\Practica_08_10_2019_Conversor.pdb
