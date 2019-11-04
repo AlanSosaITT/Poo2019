@@ -1,0 +1,7 @@
+C:\Users\alan-\source\repos\Practica_29_10_2019_Cocina\Practica_29_10_2019_Cocina\obj\Debug\Practica_29_10_2019_Cocina.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Practica_29_10_2019_Cocina\Practica_29_10_2019_Cocina\obj\Debug\Practica_29_10_2019_Cocina.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Practica_29_10_2019_Cocina\Practica_29_10_2019_Cocina\bin\Debug\Practica_29_10_2019_Cocina.exe.config
+C:\Users\alan-\source\repos\Practica_29_10_2019_Cocina\Practica_29_10_2019_Cocina\bin\Debug\Practica_29_10_2019_Cocina.exe
+C:\Users\alan-\source\repos\Practica_29_10_2019_Cocina\Practica_29_10_2019_Cocina\bin\Debug\Practica_29_10_2019_Cocina.pdb
+C:\Users\alan-\source\repos\Practica_29_10_2019_Cocina\Practica_29_10_2019_Cocina\obj\Debug\Practica_29_10_2019_Cocina.exe
+C:\Users\alan-\source\repos\Practica_29_10_2019_Cocina\Practica_29_10_2019_Cocina\obj\Debug\Practica_29_10_2019_Cocina.pdb
