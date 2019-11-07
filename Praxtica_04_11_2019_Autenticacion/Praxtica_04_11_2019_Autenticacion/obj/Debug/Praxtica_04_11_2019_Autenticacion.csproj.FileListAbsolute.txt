@@ -1,0 +1,7 @@
+C:\Users\alan-\source\repos\Praxtica_04_11_2019_Autenticacion\Praxtica_04_11_2019_Autenticacion\bin\Debug\Praxtica_04_11_2019_Autenticacion.exe.config
+C:\Users\alan-\source\repos\Praxtica_04_11_2019_Autenticacion\Praxtica_04_11_2019_Autenticacion\bin\Debug\Praxtica_04_11_2019_Autenticacion.exe
+C:\Users\alan-\source\repos\Praxtica_04_11_2019_Autenticacion\Praxtica_04_11_2019_Autenticacion\bin\Debug\Praxtica_04_11_2019_Autenticacion.pdb
+C:\Users\alan-\source\repos\Praxtica_04_11_2019_Autenticacion\Praxtica_04_11_2019_Autenticacion\obj\Debug\Praxtica_04_11_2019_Autenticacion.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Praxtica_04_11_2019_Autenticacion\Praxtica_04_11_2019_Autenticacion\obj\Debug\Praxtica_04_11_2019_Autenticacion.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Praxtica_04_11_2019_Autenticacion\Praxtica_04_11_2019_Autenticacion\obj\Debug\Praxtica_04_11_2019_Autenticacion.exe
+C:\Users\alan-\source\repos\Praxtica_04_11_2019_Autenticacion\Praxtica_04_11_2019_Autenticacion\obj\Debug\Praxtica_04_11_2019_Autenticacion.pdb
