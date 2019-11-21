@@ -1,0 +1,10 @@
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\bin\Debug\Practica_14_11_2019_Exceptions.exe.config
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\bin\Debug\Practica_14_11_2019_Exceptions.exe
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\bin\Debug\Practica_14_11_2019_Exceptions.pdb
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\obj\Debug\Practica_14_11_2019_Exceptions.csprojAssemblyReference.cache
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\obj\Debug\Practica_14_11_2019_Exceptions.Form1.resources
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\obj\Debug\Practica_14_11_2019_Exceptions.Properties.Resources.resources
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\obj\Debug\Practica_14_11_2019_Exceptions.csproj.GenerateResource.cache
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\obj\Debug\Practica_14_11_2019_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\obj\Debug\Practica_14_11_2019_Exceptions.exe
+C:\Users\alan-\source\repos\Practica_14_11_2019_Exceptions\Practica_14_11_2019_Exceptions\obj\Debug\Practica_14_11_2019_Exceptions.pdb
